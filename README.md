@@ -27,7 +27,7 @@ This project implements a machine learning pipeline for classifying Industrial I
 
 ## 📊 Dataset
 
-The project uses the IIoT Dataset 2025, containing:
+The project uses the CIC IIoT Dataset 2025 (https://www.unb.ca/cic/datasets/iiot-dataset-2025.html), containing:
 
 - **Benign Samples**: Normal industrial network traffic
 - **Attack Samples**: Various cyber attack scenarios including:
@@ -179,3 +179,4 @@ For questions or issues, please open an issue in the repository or contact the m
 ---
 
 **Note**: This project is for research and educational purposes. Ensure compliance with data usage policies and ethical guidelines when applying to real-world industrial systems.
+
